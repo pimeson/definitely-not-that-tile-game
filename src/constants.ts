@@ -3,7 +3,7 @@ export enum TileColors {
   Azul,
   Yellow,
   Black,
-  Red,
+  Red
 }
 
 // export enum TileColors {
